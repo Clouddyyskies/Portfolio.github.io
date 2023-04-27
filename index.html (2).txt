@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>PortfolioHomeCalebLee</title>
+  </head>
+  <body>
+    <main>
+      <h3>Hi, I'm</h3>
+    <h1>Caleb Lee</h1>
+      <h3>a 12 y/o student.</h3>
+    <h4><a href="https://scratch.mit.edu/mystuff/#shared"target=_blank/>• Scratch</a><br><a href="https://www.youtube.com/channel/UCiOry_XbYqOwvJ7rhRwH3lA"target=_blank/>• Youtube</a></h4>
+  <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+  <h2><u>About Me</u></h2>
+  <p>Hi, I'm a 12 year old student in California. I have some<br> experience coding  in <a href="https://scratch.mit.edu/mystuff/#shared"target=_blank/> Scratch</a>, HTML, Python, and CSS. I am also decently good at chess.<br> I enjoy being with friends and gaming on my youtube <br>channel, as well as playing with my dog.</p>
+<h2><u>Awards</u></h2>
+<p>I have won some awards in the past such as around 5 chess<br> trophies all first, second, and third place, and some<br> soccer tournament trophies one for second place. I have passed CM test for cello two times. One on level 3 and one on level 5.</p>
+<h2><u>Education</u></h2>
+<p>I am currently in the 7th grade at Oak Valley Middle School<br> with a 3.950/4.000 GPA and went to Del Sur<br> Elementary School for 1-5th grade.</p>
+    </main>
+  </body>
+</html>
